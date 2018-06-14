@@ -1,6 +1,6 @@
 <html>
-<title>Sample</title>
+<title>Sample Page</title>
 <body>
-<h2>Test!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</h2>
+<h2>Sample Page</h2>
 </body>
 </html>
